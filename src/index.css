@@ -21,8 +21,11 @@ body {
   border-radius: 14px;
   cursor: pointer;
   color: #fff;
-  font-size: 22px;
+  font-size: 70px;
   font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .board-line {
